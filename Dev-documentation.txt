@@ -1,0 +1,9 @@
+Site links :
+------------
+	Python String Concatenation
+		- https://www.journaldev.com/23575/python-string-concatenation
+Videos :
+--------
+	- https://www.youtube.com/watch?v=psaDHhZ0cPs
+	- https://www.youtube.com/watch?v=FPfzGFYuOLU
+	- https://www.youtube.com/watch?v=VmOPhT4HFNE
